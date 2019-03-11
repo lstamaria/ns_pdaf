@@ -1,0 +1,4707 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="3" title="amount" type="double" />
+      <attribute id="4" title="networkx_key" type="long" />
+    </attributes>
+    <attributes class="node" mode="static">
+      <attribute id="0" title="bipartite" type="long" />
+      <attribute id="1" title="betweenness" type="double" />
+      <attribute id="2" title="community" type="long" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>12/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="AFPI" label="AFPI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.16253738550125385" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="AEPFFI" label="AEPFFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0051599171739141565" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="APMFI" label="APMFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.001073924914415623" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="AMFI" label="AMFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </node>
+      <node id="APFI" label="APFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="7.37571913261543e-05" />
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </node>
+      <node id="ASAP" label="ASAP">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.033485782054036614" />
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </node>
+      <node id="AWSDI" label="AWSDI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.006220189801839011" />
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </node>
+      <node id="BKFI" label="BKFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.012415793873235974" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="BMMKFI" label="BMMKFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.026318391057053553" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="BTLFI" label="BTLFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0076610732692364595" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="CMIDFI" label="CMIDFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.006220189801839013" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="CDFRVB" label="CDFRVB">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="CFI" label="CFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0001647243939617446" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="CRC" label="CRC">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0016070209847297364" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="CARED" label="CARED">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.045798898632737325" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="CCFI" label="CCFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="11" />
+        </attvalues>
+      </node>
+      <node id="D2MKFI" label="D2MKFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="DRAISFI" label="DRAISFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.11253735717542877" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="DFCCOI" label="DFCCOI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.01942117235765541" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="ECOSOC" label="ECOSOC">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.037053884876825254" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="FTA" label="FTA">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="FDC" label="FDC">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.1613970466350682" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="GPMFI" label="GPMFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.006172742047043441" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="GMBFI" label="GMBFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="GDFI" label="GDFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.04777245442668298" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="GinPFI" label="GinPFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="GSLFI" label="GSLFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="GolPFI" label="GolPFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </node>
+      <node id="HMLFI" label="HMLFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.024822291450320205" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="IAFI" label="IAFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0035355419562053516" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="IHMP" label="IHMP">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="13" />
+        </attvalues>
+      </node>
+      <node id="I-HELP" label="I-HELP">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="ICIDSFI" label="ICIDSFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="ITO NA MI" label="ITO NA MI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.08514693488379575" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="JCBFI" label="JCBFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="JSAFI" label="JSAFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="14" />
+        </attvalues>
+      </node>
+      <node id="KMFI" label="KMFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.03604510367083244" />
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </node>
+      <node id="KFI" label="KFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="KKI" label="KKI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.008861155219835016" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="KKKFI" label="KKKFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.004210026584215529" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="KKAMFI" label="KKAMFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.25535933238650943" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="KKFI" label="KKFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.09519106987946127" />
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </node>
+      <node id="KKMFI" label="KKMFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0007190683846632198" />
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </node>
+      <node id="KKKFI2" label="KKKFI2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.012415793873235974" />
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </node>
+      <node id="KACI" label="KACI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0368049291784355" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="KBKBI" label="KBKBI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="15" />
+        </attvalues>
+      </node>
+      <node id="KapKFI" label="KapKFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.034877748615260815" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="KMBFI" label="KMBFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.006503830884800995" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="LGDFI" label="LGDFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </node>
+      <node id="MSBFI" label="MSBFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="15" />
+        </attvalues>
+      </node>
+      <node id="MAMFI" label="MAMFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.06059998152550255" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="MBFI" label="MBFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.03543283901713207" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="MDSF" label="MDSF">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="16" />
+        </attvalues>
+      </node>
+      <node id="MFI" label="MFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.018586812214190885" />
+          <attvalue for="2" value="15" />
+        </attvalues>
+      </node>
+      <node id="NMPP" label="NMPP">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="17" />
+        </attvalues>
+      </node>
+      <node id="NE4" label="NE4">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="PFI" label="PFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Pang-FI" label="Pang-FI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.06386423093257124" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="PDDCI" label="PDDCI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="19" />
+        </attvalues>
+      </node>
+      <node id="POPDFI" label="POPDFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.017593314427454914" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="PASEDF" label="PASEDF">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.004196365520130537" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="PEEDA" label="PEEDA">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.05178619920831763" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="PNRC" label="PNRC">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="20" />
+        </attvalues>
+      </node>
+      <node id="PSDFI" label="PSDFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.053927190332169805" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="PMFI" label="PMFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.011540165954519328" />
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </node>
+      <node id="QCPADFI" label="QCPADFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="RFI" label="RFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="15" />
+        </attvalues>
+      </node>
+      <node id="RCNME" label="RCNME">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="SBPSF" label="SBPSF">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="SPFI" label="SPFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.012415793873235974" />
+          <attvalue for="2" value="15" />
+        </attvalues>
+      </node>
+      <node id="SJFI" label="SJFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="22" />
+        </attvalues>
+      </node>
+      <node id="SDPFFI" label="SDPFFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.05647257947361216" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="SERVE" label="SERVE">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="SJAMPC" label="SJAMPC">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="SBFI" label="SBFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.006220189801839013" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="SDC" label="SDC">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="23" />
+        </attvalues>
+      </node>
+      <node id="AGSFI" label="AGSFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="15" />
+        </attvalues>
+      </node>
+      <node id="TLGI" label="TLGI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.006220189801839013" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="TFI" label="TFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="24" />
+        </attvalues>
+      </node>
+      <node id="TMCFI" label="TMCFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </node>
+      <node id="UPO" label="UPO">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.013684256215956255" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="UPFI" label="UPFI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.02589837080936795" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="Jose Carlos V. Lacson" label="Jose Carlos V. Lacson">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="Prospero C. Nograles" label="Prospero C. Nograles">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0181686964105893" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="Emmanuel Joel J. Villanueva" label="Emmanuel Joel J. Villanueva">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.04049878636500686" />
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </node>
+      <node id="Eduardo R. Gullas" label="Eduardo R. Gullas">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.006264081804451707" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="Ernesto C. Pablo" label="Ernesto C. Pablo">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="Nelson L. Dayanghirang" label="Nelson L. Dayanghirang">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="Arrel R. Olaño" label="Arrel R. Olaño">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.07462687140727786" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Carlos M. Padilla" label="Carlos M. Padilla">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="Vicente F. Belmonte Jr." label="Vicente F. Belmonte Jr.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.013907633331172642" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Ramon H. Durano VI" label="Ramon H. Durano VI">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="Faysah M. Dumarpa" label="Faysah M. Dumarpa">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="Philip A. Pichay" label="Philip A. Pichay">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0029350325572682846" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="Benhur L. Salimbangon" label="Benhur L. Salimbangon">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="Bernardo F. Piñol Jr." label="Bernardo F. Piñol Jr.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="Marina P. Clarete" label="Marina P. Clarete">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.013907633331172642" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Thomas L. Dumpit Jr." label="Thomas L. Dumpit Jr.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.013907633331172642" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Guillermo P. Cua" label="Guillermo P. Cua">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.012478645175666643" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="Danton Q. Bueser" label="Danton Q. Bueser">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.009181484810506353" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Jurdin Jesus M. Romualdo" label="Jurdin Jesus M. Romualdo">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.008972899935921852" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Gregorio T. Ipong" label="Gregorio T. Ipong">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.019537045990585068" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="Jose C. De Venecia Jr." label="Jose C. De Venecia Jr.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0029350325572682846" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="Aurelio M. Umali" label="Aurelio M. Umali">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="Eduardo K. Veloso" label="Eduardo K. Veloso">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="Marcelino C. Libanan" label="Marcelino C. Libanan">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.009181484810506353" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Prospero A. Pichay Jr." label="Prospero A. Pichay Jr.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="Rolex T. Suplico" label="Rolex T. Suplico">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="Ramon B. Revilla Jr." label="Ramon B. Revilla Jr.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.031547934645200434" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Juan Ponce Enrile" label="Juan Ponce Enrile">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.12465775369814623" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Gregorio B. Honasan II" label="Gregorio B. Honasan II">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.006397663673159473" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Anthony C. Miranda" label="Anthony C. Miranda">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </node>
+      <node id="Generoso DC. Tulagan" label="Generoso DC. Tulagan">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </node>
+      <node id="Reynaldo B. Aquino" label="Reynaldo B. Aquino">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </node>
+      <node id="Victor R. Sumulong" label="Victor R. Sumulong">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </node>
+      <node id="Marcelino R. Teodoro" label="Marcelino R. Teodoro">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </node>
+      <node id="Del R. De Guzman" label="Del R. De Guzman">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </node>
+      <node id="Adelina R. Zaldarriaga" label="Adelina R. Zaldarriaga">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </node>
+      <node id="Jaime C. Lopez" label="Jaime C. Lopez">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.02394460536488193" />
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </node>
+      <node id="Zenaida B. Angping" label="Zenaida B. Angping">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </node>
+      <node id="Magtanggol T. Gunigundo I" label="Magtanggol T. Gunigundo I">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.02710715673855505" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="Ronaldo B. Zamora" label="Ronaldo B. Zamora">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </node>
+      <node id="Arturo B. Robes" label="Arturo B. Robes">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.013661557588926843" />
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </node>
+      <node id="Robert Ace S. Barbers" label="Robert Ace S. Barbers">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </node>
+      <node id="Narciso R. Bravo Jr." label="Narciso R. Bravo Jr.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Carlo Oliver D. Diasnes" label="Carlo Oliver D. Diasnes">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.018643690113644803" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Florencio G. Noel" label="Florencio G. Noel">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Rodolfo W. Antonino" label="Rodolfo W. Antonino">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.006264081804451707" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Roberto C. Cajes" label="Roberto C. Cajes">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.017472563659880595" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Joseph A. Santiago" label="Joseph A. Santiago">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.02777753523586324" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Hussin U. Amin" label="Hussin U. Amin">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Rodante D. Marcoleta" label="Rodante D. Marcoleta">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.012686101964581453" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Miles M. Roces" label="Miles M. Roces">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0004875159179988736" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Antonio V. Cuenco" label="Antonio V. Cuenco">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.019675265162688818" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Ernie D. Clarete" label="Ernie D. Clarete">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.00264753764713467" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Danilo P. Lagbas" label="Danilo P. Lagbas">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0042490135107061" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Mariano U. Piamonte" label="Mariano U. Piamonte">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.02115597173876984" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="Erico Basilio A. Fabian" label="Erico Basilio A. Fabian">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.011564097525449499" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="Aurelio D. Gonzales Jr." label="Aurelio D. Gonzales Jr.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="Florencio T. Miraflores" label="Florencio T. Miraflores">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.012478645175666643" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="Marc Lleandro Mendoza" label="Marc Lleandro Mendoza">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="Manuel S. Agyao" label="Manuel S. Agyao">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0028612070950877547" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="Alvin S. Sandoval" label="Alvin S. Sandoval">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0301597154673561" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="Oscar G. Malapitan" label="Oscar G. Malapitan">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.005233481466371983" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="Mary Mitzi L. Cajayon" label="Mary Mitzi L. Cajayon">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.00033562401330649975" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="Conrado M. Estrella III" label="Conrado M. Estrella III">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.011595742090681073" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Douglas R. A. Cagas" label="Douglas R. A. Cagas">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Constantino G. Jaraula" label="Constantino G. Jaraula">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Rizalina L. Seachon-Lanete" label="Rizalina L. Seachon-Lanete">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.005525303631862752" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Manuel C. Ortega" label="Manuel C. Ortega">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Erwin L. Chiongbian" label="Erwin L. Chiongbian">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.030058250240605756" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Samuel M. Dangwa" label="Samuel M. Dangwa">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.035516137980259856" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Antonio M. Serapio" label="Antonio M. Serapio">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.002419487075669623" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="Bienvenido Abante Jr." label="Bienvenido Abante Jr.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="11" />
+        </attvalues>
+      </node>
+      <node id="Pedro M. Pancho" label="Pedro M. Pancho">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.006264081804451707" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Adam Relson L. Jala" label="Adam Relson L. Jala">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.04823823025666519" />
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </node>
+      <node id="Manuel M. Lapid" label="Manuel M. Lapid">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Bienvenido M. Abante Jr." label="Bienvenido M. Abante Jr.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0034030660720609104" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="Federico S. Sandoval II" label="Federico S. Sandoval II">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Clavel A. Martinez" label="Clavel A. Martinez">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.004447077546775584" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Francisco T. Matugas" label="Francisco T. Matugas">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.05126028666701674" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Glenn A. Chong" label="Glenn A. Chong">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.009426060953911153" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Henry M. Dueñas Jr." label="Henry M. Dueñas Jr.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Ma. Rachel J. Arenas" label="Ma. Rachel J. Arenas">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.005061121976654489" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Mar-Len Abigail S. Binay" label="Mar-Len Abigail S. Binay">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Reylina G. Nicolas" label="Reylina G. Nicolas">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.005061121976654489" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Uliran T. Joaquin" label="Uliran T. Joaquin">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.004447077546775584" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Joey D. Hizon" label="Joey D. Hizon">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.009192238225491079" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Eduardo C. Zialcita" label="Eduardo C. Zialcita">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.013611620092499627" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="Generoso DC Tulagan" label="Generoso DC Tulagan">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="Rozzano Rufino B. Biazon" label="Rozzano Rufino B. Biazon">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.017731320558276812" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="Ma. Theresa Bonoan-David" label="Ma. Theresa Bonoan-David">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="Vincent P. Crisologo" label="Vincent P. Crisologo">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.011826015969730876" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="Ernesto A. Nieva" label="Ernesto A. Nieva">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.002317282392507919" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="Proceso J. Alcala" label="Proceso J. Alcala">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="Emil L. Ong" label="Emil L. Ong">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.02623511223466389" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="Lorna C. Silverio" label="Lorna C. Silverio">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="Paul R. Daza" label="Paul R. Daza">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.012478645175666643" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="Alfonso V. Umali Jr" label="Alfonso V. Umali Jr">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.004932467635902487" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Isidro T. Ungab" label="Isidro T. Ungab">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.027368369034938642" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="Thelma Z. Almario" label="Thelma Z. Almario">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="Giorgidi B. Aggabao" label="Giorgidi B. Aggabao">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="Arnulfo F. Go" label="Arnulfo F. Go">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="Belma A. Cabilao" label="Belma A. Cabilao">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0071122213437741855" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="Candido P. Pancrudo Jr." label="Candido P. Pancrudo Jr.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0071122213437741855" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="Herminia M. Ramiro" label="Herminia M. Ramiro">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="Yusop H. Jikiri" label="Yusop H. Jikiri">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="Marc Douglas C. Cagas IV" label="Marc Douglas C. Cagas IV">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.03668161958727983" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Roberto V. Puno" label="Roberto V. Puno">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="Julio A. Ledesma IV" label="Julio A. Ledesma IV">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.009704390593872883" />
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </node>
+      <node id="Antonio F. Lagdameo Jr." label="Antonio F. Lagdameo Jr.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="Jose S. Aquino III" label="Jose S. Aquino III">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="Rommel C. Amatong" label="Rommel C. Amatong">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="Wilfirdo Mark M. Enverga" label="Wilfirdo Mark M. Enverga">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="Orlando B. Fua" label="Orlando B. Fua">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="Rolando A. Uy" label="Rolando A. Uy">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.007611897743527388" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Victor J. Yu" label="Victor J. Yu">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="Manuel E. Zamora" label="Manuel E. Zamora">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="Yevgeny Vincente B. Emano" label="Yevgeny Vincente B. Emano">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="Ann K. Hofer" label="Ann K. Hofer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="Edgardo M. Chatto" label="Edgardo M. Chatto">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.013091389369336135" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Nerissa Corazon Soon-Ruiz" label="Nerissa Corazon Soon-Ruiz">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.00031641171458864184" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Reno G. Lim" label="Reno G. Lim">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.014199877237096321" />
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </node>
+      <node id="Teodulo M. Coquilla" label="Teodulo M. Coquilla">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Eufrocino M. Codilla Sr." label="Eufrocino M. Codilla Sr.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.015112896138705808" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Nerissa Corazon C. Soon-Ruiz" label="Nerissa Corazon C. Soon-Ruiz">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Mary Ann L. Susano" label="Mary Ann L. Susano">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.006264081804451707" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="Rodolfo C. Bacani" label="Rodolfo C. Bacani">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </node>
+      <node id="Rodolfo G. Valencia" label="Rodolfo G. Valencia">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.003235374555313842" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Alipio Cirilo V. Badelles" label="Alipio Cirilo V. Badelles">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0023330428961124724" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Miriam Defensor Santiago" label="Miriam Defensor Santiago">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="13" />
+        </attvalues>
+      </node>
+      <node id="Sharee Ann T. Tan" label="Sharee Ann T. Tan">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="Wilfrido Mark M. Enverga" label="Wilfrido Mark M. Enverga">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="Daryl Grace J. Abayon" label="Daryl Grace J. Abayon">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.02119871541603715" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="Edgar S. San Luis" label="Edgar S. San Luis">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="Jose Emmanuel L. Carlos" label="Jose Emmanuel L. Carlos">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="Christian M. Señeres" label="Christian M. Señeres">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="Victoria Sy-Alvarado" label="Victoria Sy-Alvarado">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="14" />
+        </attvalues>
+      </node>
+      <node id="Alfonso V. Umali Jr." label="Alfonso V. Umali Jr.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </node>
+      <node id="Al Francis C. Bichara" label="Al Francis C. Bichara">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.004129889315754458" />
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </node>
+      <node id="Ignacio T. Arroyo Jr." label="Ignacio T. Arroyo Jr.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.07060557023972422" />
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </node>
+      <node id="Salacnib F. Beterina" label="Salacnib F. Beterina">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </node>
+      <node id="Amado S. Bagatsing" label="Amado S. Bagatsing">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.006264081804451707" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Robert Vincent Jude B. Jaworski Jr." label="Robert Vincent Jude B. Jaworski Jr.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.008234841508266333" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Rene M. Velarde" label="Rene M. Velarde">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.007317385267066177" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Leovigildo B. Banaag" label="Leovigildo B. Banaag">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.002253979672388071" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Niel C. Tupas Jr." label="Niel C. Tupas Jr.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Maria Isabelle G. Climaco" label="Maria Isabelle G. Climaco">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.00037523051996770864" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Antonio T. Kho" label="Antonio T. Kho">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Antonio P. Yapha Jr." label="Antonio P. Yapha Jr.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Renato J. Unico Jr." label="Renato J. Unico Jr.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Franklin P. Bautista" label="Franklin P. Bautista">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.00037523051996770864" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Eduardo V. Roquero" label="Eduardo V. Roquero">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0038292217308626515" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="Emilio C. Macias II" label="Emilio C. Macias II">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.015059641254024892" />
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </node>
+      <node id="Eladio M. Jala" label="Eladio M. Jala">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.004654257409741762" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Gerardo J. Espina Jr." label="Gerardo J. Espina Jr.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Niel C. Tupas Jr" label="Niel C. Tupas Jr">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Antonio Lagdameo Jr." label="Antonio Lagdameo Jr.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Thomas L. Dumpit" label="Thomas L. Dumpit">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Carol Jayne B. Lopez" label="Carol Jayne B. Lopez">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </node>
+      <node id="Edgardo J. Angara" label="Edgardo J. Angara">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.06732030998539207" />
+          <attvalue for="2" value="15" />
+        </attvalues>
+      </node>
+      <node id="Antonio C. Alvarez" label="Antonio C. Alvarez">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </node>
+      <node id="Arthur F. Celeste" label="Arthur F. Celeste">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </node>
+      <node id="Luis A. Asistio" label="Luis A. Asistio">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="Manuel M. Roxas" label="Manuel M. Roxas">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="Michael John R. Duavit" label="Michael John R. Duavit">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Roque R. Ablan Jr." label="Roque R. Ablan Jr.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Rizalina Seachon-Lanete" label="Rizalina Seachon-Lanete">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Jinggoy Ejercito Estrada" label="Jinggoy Ejercito Estrada">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.012059312508313528" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Edgar L. Valdez" label="Edgar L. Valdez">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.003299588702545618" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Rodolfo G. Plaza" label="Rodolfo G. Plaza">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0004256523346449831" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Elias C. Bulut Jr." label="Elias C. Bulut Jr.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="Laurence B. Wacnang" label="Laurence B. Wacnang">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="Ralph G. Recto" label="Ralph G. Recto">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="Matias V. Defensor Jr." label="Matias V. Defensor Jr.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="16" />
+        </attvalues>
+      </node>
+      <node id="Herminio G. Teves" label="Herminio G. Teves">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="15" />
+        </attvalues>
+      </node>
+      <node id="Antonio P. Yapha" label="Antonio P. Yapha">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="15" />
+        </attvalues>
+      </node>
+      <node id="Emilio R. Espinosa Jr." label="Emilio R. Espinosa Jr.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="15" />
+        </attvalues>
+      </node>
+      <node id="Juan Miguel F. Zubiri" label="Juan Miguel F. Zubiri">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="17" />
+        </attvalues>
+      </node>
+      <node id="Federico Sandoval" label="Federico Sandoval">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Nur G. Jaafar" label="Nur G. Jaafar">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Liwayway Vinzons-Chato" label="Liwayway Vinzons-Chato">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Arnulfo P. Fuentebella" label="Arnulfo P. Fuentebella">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="19" />
+        </attvalues>
+      </node>
+      <node id="Victor Francisco C. Ortega" label="Victor Francisco C. Ortega">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3.9284495448302426e-05" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Robert Raymund M. Estrella" label="Robert Raymund M. Estrella">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3.9284495448302426e-05" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Ferdinand Martin G. Romualdez" label="Ferdinand Martin G. Romualdez">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Prospero A. Pichay" label="Prospero A. Pichay">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Prospero S. Amatong" label="Prospero S. Amatong">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Richard J. Gordon" label="Richard J. Gordon">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="20" />
+        </attvalues>
+      </node>
+      <node id="Douglas R.A. Cagas" label="Douglas R.A. Cagas">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Arthur Y. Pingoy Jr." label="Arthur Y. Pingoy Jr.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0015391855422749044" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Rufus B. Rodriguez" label="Rufus B. Rodriguez">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Isidoro E. Real Jr." label="Isidoro E. Real Jr.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Salacnib F. Baterina" label="Salacnib F. Baterina">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Jose Emmanuel Bobbit L. Carlos" label="Jose Emmanuel Bobbit L. Carlos">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </node>
+      <node id="Ramon B. Magsaysay Jr." label="Ramon B. Magsaysay Jr.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="Nanette Castelo Daza" label="Nanette Castelo Daza">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="15" />
+        </attvalues>
+      </node>
+      <node id="Loren B. Legarda" label="Loren B. Legarda">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="15" />
+        </attvalues>
+      </node>
+      <node id="Mauricio G. Domogan" label="Mauricio G. Domogan">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="22" />
+        </attvalues>
+      </node>
+      <node id="Rizalina L. Seachon Lanete" label="Rizalina L. Seachon Lanete">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Jose R. Ping-ay Jr" label="Jose R. Ping-ay Jr">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="Jose Solis" label="Jose Solis">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="23" />
+        </attvalues>
+      </node>
+      <node id="Jeci A. Lapus" label="Jeci A. Lapus">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="Jesli A. Lapus" label="Jesli A. Lapus">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="24" />
+        </attvalues>
+      </node>
+      <node id="Teodoro L. Locsin Jr." label="Teodoro L. Locsin Jr.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="Consuelo A. Dy" label="Consuelo A. Dy">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="Edgar T. Espinosa" label="Edgar T. Espinosa">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="AFPI" target="Jose Carlos V. Lacson">
+        <attvalues>
+          <attvalue for="3" value="9.7" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="AFPI" target="Prospero C. Nograles">
+        <attvalues>
+          <attvalue for="3" value="9.7" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="AFPI" target="Prospero C. Nograles">
+        <attvalues>
+          <attvalue for="3" value="50.4" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="AFPI" target="Emmanuel Joel J. Villanueva">
+        <attvalues>
+          <attvalue for="3" value="9.7" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="AFPI" target="Eduardo R. Gullas">
+        <attvalues>
+          <attvalue for="3" value="19.4" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="AFPI" target="Ernesto C. Pablo">
+        <attvalues>
+          <attvalue for="3" value="20.28" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="AFPI" target="Nelson L. Dayanghirang">
+        <attvalues>
+          <attvalue for="3" value="5.4" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="AFPI" target="Arrel R. Olaño">
+        <attvalues>
+          <attvalue for="3" value="7.2" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="AFPI" target="Carlos M. Padilla">
+        <attvalues>
+          <attvalue for="3" value="6.3" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="AFPI" target="Vicente F. Belmonte Jr.">
+        <attvalues>
+          <attvalue for="3" value="4.5" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="AFPI" target="Ramon H. Durano VI">
+        <attvalues>
+          <attvalue for="3" value="7.2" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="AFPI" target="Faysah M. Dumarpa">
+        <attvalues>
+          <attvalue for="3" value="5.4" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="AFPI" target="Philip A. Pichay">
+        <attvalues>
+          <attvalue for="3" value="162.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="AFPI" target="Benhur L. Salimbangon">
+        <attvalues>
+          <attvalue for="3" value="7.02" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="AFPI" target="Bernardo F. Piñol Jr.">
+        <attvalues>
+          <attvalue for="3" value="4.5" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="15" source="AFPI" target="Marina P. Clarete">
+        <attvalues>
+          <attvalue for="3" value="5.4" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="AFPI" target="Thomas L. Dumpit Jr.">
+        <attvalues>
+          <attvalue for="3" value="5.4" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="17" source="AFPI" target="Guillermo P. Cua">
+        <attvalues>
+          <attvalue for="3" value="5.4" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="18" source="AFPI" target="Danton Q. Bueser">
+        <attvalues>
+          <attvalue for="3" value="9.8" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="19" source="AFPI" target="Jurdin Jesus M. Romualdo">
+        <attvalues>
+          <attvalue for="3" value="9.8" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="20" source="AFPI" target="Gregorio T. Ipong">
+        <attvalues>
+          <attvalue for="3" value="14.5" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="21" source="AFPI" target="Jose C. De Venecia Jr.">
+        <attvalues>
+          <attvalue for="3" value="19.2" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="22" source="AFPI" target="Aurelio M. Umali">
+        <attvalues>
+          <attvalue for="3" value="24.2" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="23" source="AFPI" target="Eduardo K. Veloso">
+        <attvalues>
+          <attvalue for="3" value="24.2" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="24" source="AFPI" target="Marcelino C. Libanan">
+        <attvalues>
+          <attvalue for="3" value="13.4" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="25" source="AFPI" target="Prospero A. Pichay Jr.">
+        <attvalues>
+          <attvalue for="3" value="40.37" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="26" source="AFPI" target="Rolex T. Suplico">
+        <attvalues>
+          <attvalue for="3" value="24.5" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="27" source="AEPFFI" target="Ramon B. Revilla Jr.">
+        <attvalues>
+          <attvalue for="3" value="82.45" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="28" source="AEPFFI" target="Ramon B. Revilla Jr.">
+        <attvalues>
+          <attvalue for="3" value="24.0" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="29" source="AEPFFI" target="Juan Ponce Enrile">
+        <attvalues>
+          <attvalue for="3" value="24.25" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="30" source="AEPFFI" target="Gregorio B. Honasan II">
+        <attvalues>
+          <attvalue for="3" value="14.55" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="31" source="APMFI" target="Juan Ponce Enrile">
+        <attvalues>
+          <attvalue for="3" value="24.25" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="32" source="APMFI" target="Juan Ponce Enrile">
+        <attvalues>
+          <attvalue for="3" value="22.5" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="33" source="APMFI" target="Ramon B. Revilla Jr.">
+        <attvalues>
+          <attvalue for="3" value="58.2" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="34" source="AMFI" target="Anthony C. Miranda">
+        <attvalues>
+          <attvalue for="3" value="20.06" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="35" source="APFI" target="Generoso DC. Tulagan">
+        <attvalues>
+          <attvalue for="3" value="4.8" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="36" source="APFI" target="Reynaldo B. Aquino">
+        <attvalues>
+          <attvalue for="3" value="14.02" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="37" source="APFI" target="Victor R. Sumulong">
+        <attvalues>
+          <attvalue for="3" value="9.8" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="38" source="ASAP" target="Marcelino R. Teodoro">
+        <attvalues>
+          <attvalue for="3" value="7.508" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="39" source="ASAP" target="Marcelino R. Teodoro">
+        <attvalues>
+          <attvalue for="3" value="6.75" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="40" source="ASAP" target="Del R. De Guzman">
+        <attvalues>
+          <attvalue for="3" value="4.85" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="41" source="ASAP" target="Del R. De Guzman">
+        <attvalues>
+          <attvalue for="3" value="9.3" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="42" source="ASAP" target="Adelina R. Zaldarriaga">
+        <attvalues>
+          <attvalue for="3" value="1.94" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="43" source="ASAP" target="Jaime C. Lopez">
+        <attvalues>
+          <attvalue for="3" value="1.94" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="44" source="ASAP" target="Jaime C. Lopez">
+        <attvalues>
+          <attvalue for="3" value="3.6" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="45" source="ASAP" target="Zenaida B. Angping">
+        <attvalues>
+          <attvalue for="3" value="3.6" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="46" source="ASAP" target="Magtanggol T. Gunigundo I">
+        <attvalues>
+          <attvalue for="3" value="1.35" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="47" source="ASAP" target="Ronaldo B. Zamora">
+        <attvalues>
+          <attvalue for="3" value="4.5" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="48" source="AWSDI" target="Arturo B. Robes">
+        <attvalues>
+          <attvalue for="3" value="11.931" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="49" source="AWSDI" target="Arturo B. Robes">
+        <attvalues>
+          <attvalue for="3" value="13.5" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="50" source="AWSDI" target="Robert Ace S. Barbers">
+        <attvalues>
+          <attvalue for="3" value="23.4" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="51" source="BKFI" target="Narciso R. Bravo Jr.">
+        <attvalues>
+          <attvalue for="3" value="2.7" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="52" source="BKFI" target="Carlo Oliver D. Diasnes">
+        <attvalues>
+          <attvalue for="3" value="11.2" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="53" source="BKFI" target="Florencio G. Noel">
+        <attvalues>
+          <attvalue for="3" value="1.2" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="54" source="BMMKFI" target="Rodolfo W. Antonino">
+        <attvalues>
+          <attvalue for="3" value="14.55" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="55" source="BMMKFI" target="Roberto C. Cajes">
+        <attvalues>
+          <attvalue for="3" value="9.7" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="56" source="BMMKFI" target="Joseph A. Santiago">
+        <attvalues>
+          <attvalue for="3" value="7.275" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="57" source="BMMKFI" target="Hussin U. Amin">
+        <attvalues>
+          <attvalue for="3" value="4.9" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="58" source="BMMKFI" target="Rodante D. Marcoleta">
+        <attvalues>
+          <attvalue for="3" value="5.88" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="59" source="BMMKFI" target="Miles M. Roces">
+        <attvalues>
+          <attvalue for="3" value="13.132" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="60" source="BMMKFI" target="Antonio V. Cuenco">
+        <attvalues>
+          <attvalue for="3" value="4.9" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="61" source="BMMKFI" target="Ernie D. Clarete">
+        <attvalues>
+          <attvalue for="3" value="9.8" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="62" source="BMMKFI" target="Danilo P. Lagbas">
+        <attvalues>
+          <attvalue for="3" value="13.818" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="63" source="BTLFI" target="Mariano U. Piamonte">
+        <attvalues>
+          <attvalue for="3" value="4.85" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="64" source="BTLFI" target="Erico Basilio A. Fabian">
+        <attvalues>
+          <attvalue for="3" value="3.88" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="65" source="BTLFI" target="Rodante D. Marcoleta">
+        <attvalues>
+          <attvalue for="3" value="8.5" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="66" source="BTLFI" target="Aurelio D. Gonzales Jr.">
+        <attvalues>
+          <attvalue for="3" value="2.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="67" source="CMIDFI" target="Florencio T. Miraflores">
+        <attvalues>
+          <attvalue for="3" value="4.85" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="68" source="CMIDFI" target="Marc Lleandro Mendoza">
+        <attvalues>
+          <attvalue for="3" value="4.85" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="69" source="CDFRVB" target="Gregorio B. Honasan II">
+        <attvalues>
+          <attvalue for="3" value="5.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="70" source="CFI" target="Manuel S. Agyao">
+        <attvalues>
+          <attvalue for="3" value="8.439" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="71" source="CFI" target="Magtanggol T. Gunigundo I">
+        <attvalues>
+          <attvalue for="3" value="12.707" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="72" source="CRC" target="Alvin S. Sandoval">
+        <attvalues>
+          <attvalue for="3" value="30.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="73" source="CRC" target="Oscar G. Malapitan">
+        <attvalues>
+          <attvalue for="3" value="1.5" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="74" source="CRC" target="Mary Mitzi L. Cajayon">
+        <attvalues>
+          <attvalue for="3" value="4.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="75" source="CARED" target="Conrado M. Estrella III">
+        <attvalues>
+          <attvalue for="3" value="24.25" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="76" source="CARED" target="Conrado M. Estrella III">
+        <attvalues>
+          <attvalue for="3" value="12.48" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="77" source="CARED" target="Juan Ponce Enrile">
+        <attvalues>
+          <attvalue for="3" value="77.6" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="78" source="CARED" target="Juan Ponce Enrile">
+        <attvalues>
+          <attvalue for="3" value="19.2" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="79" source="CARED" target="Douglas R. A. Cagas">
+        <attvalues>
+          <attvalue for="3" value="7.68" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="80" source="CARED" target="Constantino G. Jaraula">
+        <attvalues>
+          <attvalue for="3" value="28.8" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="81" source="CARED" target="Arrel R. Olaño">
+        <attvalues>
+          <attvalue for="3" value="1.89" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="82" source="CARED" target="Rizalina L. Seachon-Lanete">
+        <attvalues>
+          <attvalue for="3" value="4.8" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="83" source="CARED" target="Manuel C. Ortega">
+        <attvalues>
+          <attvalue for="3" value="28.8" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="84" source="CARED" target="Erwin L. Chiongbian">
+        <attvalues>
+          <attvalue for="3" value="27.84" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="85" source="CARED" target="Samuel M. Dangwa">
+        <attvalues>
+          <attvalue for="3" value="10.52" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="86" source="CARED" target="Antonio M. Serapio">
+        <attvalues>
+          <attvalue for="3" value="2.88" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="87" source="CCFI" target="Bienvenido Abante Jr.">
+        <attvalues>
+          <attvalue for="3" value="40.6" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="88" source="D2MKFI" target="Pedro M. Pancho">
+        <attvalues>
+          <attvalue for="3" value="36.993" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="89" source="DRAISFI" target="Adam Relson L. Jala">
+        <attvalues>
+          <attvalue for="3" value="9.7" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="90" source="DRAISFI" target="Adam Relson L. Jala">
+        <attvalues>
+          <attvalue for="3" value="3.6" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="91" source="DRAISFI" target="Manuel M. Lapid">
+        <attvalues>
+          <attvalue for="3" value="22.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="92" source="DRAISFI" target="Juan Ponce Enrile">
+        <attvalues>
+          <attvalue for="3" value="35.55" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="93" source="DRAISFI" target="Alvin S. Sandoval">
+        <attvalues>
+          <attvalue for="3" value="4.5" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="94" source="DRAISFI" target="Bienvenido M. Abante Jr.">
+        <attvalues>
+          <attvalue for="3" value="4.95" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="95" source="DRAISFI" target="Federico S. Sandoval II">
+        <attvalues>
+          <attvalue for="3" value="20.16" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="96" source="DRAISFI" target="Clavel A. Martinez">
+        <attvalues>
+          <attvalue for="3" value="14.4" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="97" source="DRAISFI" target="Francisco T. Matugas">
+        <attvalues>
+          <attvalue for="3" value="13.5" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="98" source="DRAISFI" target="Glenn A. Chong">
+        <attvalues>
+          <attvalue for="3" value="1.35" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="99" source="DRAISFI" target="Henry M. Dueñas Jr.">
+        <attvalues>
+          <attvalue for="3" value="3.6" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="100" source="DRAISFI" target="Ma. Rachel J. Arenas">
+        <attvalues>
+          <attvalue for="3" value="2.43" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="101" source="DRAISFI" target="Mar-Len Abigail S. Binay">
+        <attvalues>
+          <attvalue for="3" value="8.1" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="102" source="DRAISFI" target="Reylina G. Nicolas">
+        <attvalues>
+          <attvalue for="3" value="7.35" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="103" source="DRAISFI" target="Uliran T. Joaquin">
+        <attvalues>
+          <attvalue for="3" value="3.832" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="104" source="DRAISFI" target="Joey D. Hizon">
+        <attvalues>
+          <attvalue for="3" value="9.6" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="105" source="DFCCOI" target="Eduardo C. Zialcita">
+        <attvalues>
+          <attvalue for="3" value="10.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="106" source="DFCCOI" target="Eduardo C. Zialcita">
+        <attvalues>
+          <attvalue for="3" value="7.5" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="107" source="DFCCOI" target="Generoso DC Tulagan">
+        <attvalues>
+          <attvalue for="3" value="5.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="108" source="DFCCOI" target="Rozzano Rufino B. Biazon">
+        <attvalues>
+          <attvalue for="3" value="14.5" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="109" source="DFCCOI" target="Rozzano Rufino B. Biazon">
+        <attvalues>
+          <attvalue for="3" value="3.5" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="110" source="DFCCOI" target="Ma. Theresa Bonoan-David">
+        <attvalues>
+          <attvalue for="3" value="26.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="111" source="DFCCOI" target="Ma. Theresa Bonoan-David">
+        <attvalues>
+          <attvalue for="3" value="9.0" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="112" source="DFCCOI" target="Vincent P. Crisologo">
+        <attvalues>
+          <attvalue for="3" value="5.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="113" source="DFCCOI" target="Vincent P. Crisologo">
+        <attvalues>
+          <attvalue for="3" value="3.5" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="114" source="DFCCOI" target="Ernesto A. Nieva">
+        <attvalues>
+          <attvalue for="3" value="14.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="115" source="ECOSOC" target="Proceso J. Alcala">
+        <attvalues>
+          <attvalue for="3" value="6.5" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="116" source="ECOSOC" target="Gregorio T. Ipong">
+        <attvalues>
+          <attvalue for="3" value="9.4" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="117" source="ECOSOC" target="Emil L. Ong">
+        <attvalues>
+          <attvalue for="3" value="4.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="118" source="ECOSOC" target="Lorna C. Silverio">
+        <attvalues>
+          <attvalue for="3" value="9.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="119" source="ECOSOC" target="Paul R. Daza">
+        <attvalues>
+          <attvalue for="3" value="5.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="120" source="ECOSOC" target="Alfonso V. Umali Jr">
+        <attvalues>
+          <attvalue for="3" value="2.125" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="121" source="FTA" target="Ramon B. Revilla Jr.">
+        <attvalues>
+          <attvalue for="3" value="1.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="122" source="FDC" target="Isidro T. Ungab">
+        <attvalues>
+          <attvalue for="3" value="23.4" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="123" source="FDC" target="Arrel R. Olaño">
+        <attvalues>
+          <attvalue for="3" value="6.75" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="124" source="FDC" target="Thelma Z. Almario">
+        <attvalues>
+          <attvalue for="3" value="5.4" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="125" source="FDC" target="Giorgidi B. Aggabao">
+        <attvalues>
+          <attvalue for="3" value="5.4" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="126" source="FDC" target="Arnulfo F. Go">
+        <attvalues>
+          <attvalue for="3" value="9.9" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="127" source="FDC" target="Belma A. Cabilao">
+        <attvalues>
+          <attvalue for="3" value="13.05" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="128" source="FDC" target="Candido P. Pancrudo Jr.">
+        <attvalues>
+          <attvalue for="3" value="36.9" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="129" source="FDC" target="Herminia M. Ramiro">
+        <attvalues>
+          <attvalue for="3" value="5.4" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="130" source="FDC" target="Yusop H. Jikiri">
+        <attvalues>
+          <attvalue for="3" value="9.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="131" source="FDC" target="Marc Douglas C. Cagas IV">
+        <attvalues>
+          <attvalue for="3" value="9.9" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="132" source="FDC" target="Roberto V. Puno">
+        <attvalues>
+          <attvalue for="3" value="5.4" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="133" source="FDC" target="Julio A. Ledesma IV">
+        <attvalues>
+          <attvalue for="3" value="14.4" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="134" source="FDC" target="Adam Relson L. Jala">
+        <attvalues>
+          <attvalue for="3" value="5.4" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="135" source="FDC" target="Antonio F. Lagdameo Jr.">
+        <attvalues>
+          <attvalue for="3" value="5.4" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="136" source="FDC" target="Antonio V. Cuenco">
+        <attvalues>
+          <attvalue for="3" value="9.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="137" source="FDC" target="Erico Basilio A. Fabian">
+        <attvalues>
+          <attvalue for="3" value="5.4" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="138" source="FDC" target="Erwin L. Chiongbian">
+        <attvalues>
+          <attvalue for="3" value="5.4" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="139" source="FDC" target="Jose S. Aquino III">
+        <attvalues>
+          <attvalue for="3" value="0.9" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="140" source="FDC" target="Rommel C. Amatong">
+        <attvalues>
+          <attvalue for="3" value="5.4" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="141" source="FDC" target="Mariano U. Piamonte">
+        <attvalues>
+          <attvalue for="3" value="5.4" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="142" source="FDC" target="Wilfirdo Mark M. Enverga">
+        <attvalues>
+          <attvalue for="3" value="5.4" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="143" source="FDC" target="Orlando B. Fua">
+        <attvalues>
+          <attvalue for="3" value="12.15" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="144" source="FDC" target="Rolando A. Uy">
+        <attvalues>
+          <attvalue for="3" value="9.9" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="145" source="FDC" target="Victor J. Yu">
+        <attvalues>
+          <attvalue for="3" value="5.4" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="146" source="FDC" target="Manuel E. Zamora">
+        <attvalues>
+          <attvalue for="3" value="5.4" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="147" source="FDC" target="Yevgeny Vincente B. Emano">
+        <attvalues>
+          <attvalue for="3" value="17.55" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="148" source="FDC" target="Ann K. Hofer">
+        <attvalues>
+          <attvalue for="3" value="5.4" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="149" source="GPMFI" target="Edgardo M. Chatto">
+        <attvalues>
+          <attvalue for="3" value="9.7" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="150" source="GPMFI" target="Isidro T. Ungab">
+        <attvalues>
+          <attvalue for="3" value="5.82" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="151" source="GPMFI" target="Roberto C. Cajes">
+        <attvalues>
+          <attvalue for="3" value="8.245" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="152" source="GPMFI" target="Mariano U. Piamonte">
+        <attvalues>
+          <attvalue for="3" value="4.85" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="153" source="GPMFI" target="Rolando A. Uy">
+        <attvalues>
+          <attvalue for="3" value="4.85" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="154" source="GPMFI" target="Antonio V. Cuenco">
+        <attvalues>
+          <attvalue for="3" value="23.28" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="155" source="GPMFI" target="Nerissa Corazon Soon-Ruiz">
+        <attvalues>
+          <attvalue for="3" value="7.76" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="156" source="GPMFI" target="Danilo P. Lagbas">
+        <attvalues>
+          <attvalue for="3" value="7.76" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="157" source="GMBFI" target="Roberto C. Cajes">
+        <attvalues>
+          <attvalue for="3" value="2.91" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="158" source="GDFI" target="Emil L. Ong">
+        <attvalues>
+          <attvalue for="3" value="4.85" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="159" source="GDFI" target="Reno G. Lim">
+        <attvalues>
+          <attvalue for="3" value="4.85" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="160" source="GDFI" target="Teodulo M. Coquilla">
+        <attvalues>
+          <attvalue for="3" value="4.85" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="161" source="GDFI" target="Eduardo C. Zialcita">
+        <attvalues>
+          <attvalue for="3" value="7.2" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="162" source="GDFI" target="Eufrocino M. Codilla Sr.">
+        <attvalues>
+          <attvalue for="3" value="23.4" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="163" source="GDFI" target="Jurdin Jesus M. Romualdo">
+        <attvalues>
+          <attvalue for="3" value="9.6" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="164" source="GDFI" target="Clavel A. Martinez">
+        <attvalues>
+          <attvalue for="3" value="19.2" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="165" source="GDFI" target="Nerissa Corazon C. Soon-Ruiz">
+        <attvalues>
+          <attvalue for="3" value="8.82" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="166" source="GDFI" target="Uliran T. Joaquin">
+        <attvalues>
+          <attvalue for="3" value="14.112" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="167" source="GinPFI" target="Alvin S. Sandoval">
+        <attvalues>
+          <attvalue for="3" value="32.4" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="168" source="GSLFI" target="Mary Ann L. Susano">
+        <attvalues>
+          <attvalue for="3" value="0.97" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="169" source="GolPFI" target="Rodolfo C. Bacani">
+        <attvalues>
+          <attvalue for="3" value="15.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="170" source="HMLFI" target="Oscar G. Malapitan">
+        <attvalues>
+          <attvalue for="3" value="5.666" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="171" source="HMLFI" target="Oscar G. Malapitan">
+        <attvalues>
+          <attvalue for="3" value="2.91" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="172" source="HMLFI" target="Antonio M. Serapio">
+        <attvalues>
+          <attvalue for="3" value="7.35" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="173" source="HMLFI" target="Antonio M. Serapio">
+        <attvalues>
+          <attvalue for="3" value="11.64" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="174" source="HMLFI" target="Bienvenido M. Abante Jr.">
+        <attvalues>
+          <attvalue for="3" value="4.85" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="175" source="HMLFI" target="Bienvenido M. Abante Jr.">
+        <attvalues>
+          <attvalue for="3" value="7.2" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="176" source="HMLFI" target="Isidro T. Ungab">
+        <attvalues>
+          <attvalue for="3" value="2.25" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="177" source="HMLFI" target="Rodolfo G. Valencia">
+        <attvalues>
+          <attvalue for="3" value="1.84" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="178" source="HMLFI" target="Mary Ann L. Susano">
+        <attvalues>
+          <attvalue for="3" value="2.5" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="179" source="IAFI" target="Joseph A. Santiago">
+        <attvalues>
+          <attvalue for="3" value="14.55" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="180" source="IAFI" target="Joseph A. Santiago">
+        <attvalues>
+          <attvalue for="3" value="4.8" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="181" source="IAFI" target="Alipio Cirilo V. Badelles">
+        <attvalues>
+          <attvalue for="3" value="4.85" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="182" source="IAFI" target="Miles M. Roces">
+        <attvalues>
+          <attvalue for="3" value="8.64" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="183" source="IHMP" target="Miriam Defensor Santiago">
+        <attvalues>
+          <attvalue for="3" value="0.3" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="184" source="I-HELP" target="Erico Basilio A. Fabian">
+        <attvalues>
+          <attvalue for="3" value="2.91" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="185" source="ICIDSFI" target="Eduardo R. Gullas">
+        <attvalues>
+          <attvalue for="3" value="9.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="186" source="ITO NA MI" target="Glenn A. Chong">
+        <attvalues>
+          <attvalue for="3" value="4.365" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="187" source="ITO NA MI" target="Manuel S. Agyao">
+        <attvalues>
+          <attvalue for="3" value="5.384" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="188" source="ITO NA MI" target="Manuel S. Agyao">
+        <attvalues>
+          <attvalue for="3" value="6.063" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="189" source="ITO NA MI" target="Marc Douglas C. Cagas IV">
+        <attvalues>
+          <attvalue for="3" value="4.85" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="190" source="ITO NA MI" target="Sharee Ann T. Tan">
+        <attvalues>
+          <attvalue for="3" value="1.455" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="191" source="ITO NA MI" target="Samuel M. Dangwa">
+        <attvalues>
+          <attvalue for="3" value="0.97" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="192" source="ITO NA MI" target="Wilfrido Mark M. Enverga">
+        <attvalues>
+          <attvalue for="3" value="9.744" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="193" source="ITO NA MI" target="Emil L. Ong">
+        <attvalues>
+          <attvalue for="3" value="51.41" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="194" source="ITO NA MI" target="Daryl Grace J. Abayon">
+        <attvalues>
+          <attvalue for="3" value="9.7" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="195" source="ITO NA MI" target="Magtanggol T. Gunigundo I">
+        <attvalues>
+          <attvalue for="3" value="3.6" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="196" source="ITO NA MI" target="Edgar S. San Luis">
+        <attvalues>
+          <attvalue for="3" value="4.14" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="197" source="ITO NA MI" target="Jose Emmanuel L. Carlos">
+        <attvalues>
+          <attvalue for="3" value="9.215" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="198" source="ITO NA MI" target="Christian M. Señeres">
+        <attvalues>
+          <attvalue for="3" value="13.964" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="199" source="JCBFI" target="Alvin S. Sandoval">
+        <attvalues>
+          <attvalue for="3" value="18.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="200" source="JSAFI" target="Victoria Sy-Alvarado">
+        <attvalues>
+          <attvalue for="3" value="12.9" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="201" source="KMFI" target="Alfonso V. Umali Jr.">
+        <attvalues>
+          <attvalue for="3" value="4.656" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="202" source="KMFI" target="Adam Relson L. Jala">
+        <attvalues>
+          <attvalue for="3" value="3.88" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="203" source="KMFI" target="Emmanuel Joel J. Villanueva">
+        <attvalues>
+          <attvalue for="3" value="4.85" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="204" source="KMFI" target="Al Francis C. Bichara">
+        <attvalues>
+          <attvalue for="3" value="4.5" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="205" source="KMFI" target="Ignacio T. Arroyo Jr.">
+        <attvalues>
+          <attvalue for="3" value="3.15" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="206" source="KMFI" target="Ignacio T. Arroyo Jr.">
+        <attvalues>
+          <attvalue for="3" value="4.8" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="207" source="KMFI" target="Reno G. Lim">
+        <attvalues>
+          <attvalue for="3" value="27.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="208" source="KMFI" target="Edgardo M. Chatto">
+        <attvalues>
+          <attvalue for="3" value="8.82" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="209" source="KMFI" target="Salacnib F. Beterina">
+        <attvalues>
+          <attvalue for="3" value="24.3" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="210" source="KMFI" target="Joey D. Hizon">
+        <attvalues>
+          <attvalue for="3" value="4.8" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="211" source="KFI" target="Amado S. Bagatsing">
+        <attvalues>
+          <attvalue for="3" value="19.8" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="212" source="KFI" target="Amado S. Bagatsing">
+        <attvalues>
+          <attvalue for="3" value="1.94" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="213" source="KKI" target="Robert Vincent Jude B. Jaworski Jr.">
+        <attvalues>
+          <attvalue for="3" value="2.631" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="214" source="KKI" target="Rene M. Velarde">
+        <attvalues>
+          <attvalue for="3" value="7.5" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="215" source="KKI" target="Alfonso V. Umali Jr">
+        <attvalues>
+          <attvalue for="3" value="1.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="216" source="KKKFI" target="Robert Vincent Jude B. Jaworski Jr.">
+        <attvalues>
+          <attvalue for="3" value="10.976" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="217" source="KKKFI" target="Joey D. Hizon">
+        <attvalues>
+          <attvalue for="3" value="9.6" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="218" source="KKKFI" target="Leovigildo B. Banaag">
+        <attvalues>
+          <attvalue for="3" value="14.7" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="219" source="KKAMFI" target="Al Francis C. Bichara">
+        <attvalues>
+          <attvalue for="3" value="4.656" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="220" source="KKAMFI" target="Edgardo M. Chatto">
+        <attvalues>
+          <attvalue for="3" value="2.91" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="221" source="KKAMFI" target="Edgardo M. Chatto">
+        <attvalues>
+          <attvalue for="3" value="9.7" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="222" source="KKAMFI" target="Niel C. Tupas Jr.">
+        <attvalues>
+          <attvalue for="3" value="4.85" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="223" source="KKAMFI" target="Prospero C. Nograles">
+        <attvalues>
+          <attvalue for="3" value="8.73" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="224" source="KKAMFI" target="Roberto C. Cajes">
+        <attvalues>
+          <attvalue for="3" value="18.624" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="225" source="KKAMFI" target="Roberto C. Cajes">
+        <attvalues>
+          <attvalue for="3" value="13.871" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="226" source="KKAMFI" target="Maria Isabelle G. Climaco">
+        <attvalues>
+          <attvalue for="3" value="12.61" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="227" source="KKAMFI" target="Maria Isabelle G. Climaco">
+        <attvalues>
+          <attvalue for="3" value="10.767" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="228" source="KKAMFI" target="Antonio T. Kho">
+        <attvalues>
+          <attvalue for="3" value="9.7" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="229" source="KKAMFI" target="Antonio P. Yapha Jr.">
+        <attvalues>
+          <attvalue for="3" value="9.7" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="230" source="KKAMFI" target="Marina P. Clarete">
+        <attvalues>
+          <attvalue for="3" value="24.735" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="231" source="KKAMFI" target="Marina P. Clarete">
+        <attvalues>
+          <attvalue for="3" value="20.855" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="232" source="KKAMFI" target="Renato J. Unico Jr.">
+        <attvalues>
+          <attvalue for="3" value="14.55" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="233" source="KKAMFI" target="Renato J. Unico Jr.">
+        <attvalues>
+          <attvalue for="3" value="9.6" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="234" source="KKAMFI" target="Rolando A. Uy">
+        <attvalues>
+          <attvalue for="3" value="2.91" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="235" source="KKAMFI" target="Rolando A. Uy">
+        <attvalues>
+          <attvalue for="3" value="14.55" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="236" source="KKAMFI" target="Vicente F. Belmonte Jr.">
+        <attvalues>
+          <attvalue for="3" value="4.85" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="237" source="KKAMFI" target="Vicente F. Belmonte Jr.">
+        <attvalues>
+          <attvalue for="3" value="3.395" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="238" source="KKAMFI" target="Franklin P. Bautista">
+        <attvalues>
+          <attvalue for="3" value="1.94" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="239" source="KKAMFI" target="Franklin P. Bautista">
+        <attvalues>
+          <attvalue for="3" value="2.91" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="240" source="KKAMFI" target="Nerissa Corazon Soon-Ruiz">
+        <attvalues>
+          <attvalue for="3" value="9.7" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="241" source="KKAMFI" target="Nerissa Corazon Soon-Ruiz">
+        <attvalues>
+          <attvalue for="3" value="1.35" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="242" source="KKAMFI" target="Nerissa Corazon Soon-Ruiz">
+        <attvalues>
+          <attvalue for="3" value="10.913" />
+          <attvalue for="4" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="243" source="KKAMFI" target="Eduardo V. Roquero">
+        <attvalues>
+          <attvalue for="3" value="9.7" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="244" source="KKAMFI" target="Emilio C. Macias II">
+        <attvalues>
+          <attvalue for="3" value="6.79" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="245" source="KKAMFI" target="Danilo P. Lagbas">
+        <attvalues>
+          <attvalue for="3" value="3.686" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="246" source="KKAMFI" target="Danilo P. Lagbas">
+        <attvalues>
+          <attvalue for="3" value="9.7" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="247" source="KKAMFI" target="Isidro T. Ungab">
+        <attvalues>
+          <attvalue for="3" value="18.9" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="248" source="KKAMFI" target="Isidro T. Ungab">
+        <attvalues>
+          <attvalue for="3" value="19.4" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="249" source="KKAMFI" target="Thomas L. Dumpit Jr.">
+        <attvalues>
+          <attvalue for="3" value="0.45" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="250" source="KKAMFI" target="Eladio M. Jala">
+        <attvalues>
+          <attvalue for="3" value="8.64" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="251" source="KKAMFI" target="Ernie D. Clarete">
+        <attvalues>
+          <attvalue for="3" value="4.8" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="252" source="KKAMFI" target="Gerardo J. Espina Jr.">
+        <attvalues>
+          <attvalue for="3" value="24.08" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="253" source="KKAMFI" target="Niel C. Tupas Jr">
+        <attvalues>
+          <attvalue for="3" value="12.61" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="254" source="KKAMFI" target="Arturo B. Robes">
+        <attvalues>
+          <attvalue for="3" value="1.261" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="255" source="KKAMFI" target="Julio A. Ledesma IV">
+        <attvalues>
+          <attvalue for="3" value="15.52" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="256" source="KKAMFI" target="Adam Relson L. Jala">
+        <attvalues>
+          <attvalue for="3" value="9.506" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="257" source="KKAMFI" target="Antonio Lagdameo Jr.">
+        <attvalues>
+          <attvalue for="3" value="5.82" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="258" source="KKAMFI" target="Antonio V. Cuenco">
+        <attvalues>
+          <attvalue for="3" value="17.46" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="259" source="KKAMFI" target="Daryl Grace J. Abayon">
+        <attvalues>
+          <attvalue for="3" value="9.7" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="260" source="KKAMFI" target="Eufrocino M. Codilla Sr.">
+        <attvalues>
+          <attvalue for="3" value="23.765" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="261" source="KKAMFI" target="Francisco T. Matugas">
+        <attvalues>
+          <attvalue for="3" value="3.395" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="262" source="KKAMFI" target="Joseph A. Santiago">
+        <attvalues>
+          <attvalue for="3" value="27.16" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="263" source="KKAMFI" target="Mariano U. Piamonte">
+        <attvalues>
+          <attvalue for="3" value="14.55" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="264" source="KKAMFI" target="Rodante D. Marcoleta">
+        <attvalues>
+          <attvalue for="3" value="3.88" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="265" source="KKAMFI" target="Thomas L. Dumpit">
+        <attvalues>
+          <attvalue for="3" value="43.65" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="266" source="KKAMFI" target="Ignacio T. Arroyo Jr.">
+        <attvalues>
+          <attvalue for="3" value="3.88" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="267" source="KKFI" target="Juan Ponce Enrile">
+        <attvalues>
+          <attvalue for="3" value="14.55" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="268" source="KKFI" target="Carol Jayne B. Lopez">
+        <attvalues>
+          <attvalue for="3" value="28.13" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="269" source="KKFI" target="Reno G. Lim">
+        <attvalues>
+          <attvalue for="3" value="27.582" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="270" source="KKFI" target="Edgardo J. Angara">
+        <attvalues>
+          <attvalue for="3" value="19.4" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="271" source="KKFI" target="Ignacio T. Arroyo Jr.">
+        <attvalues>
+          <attvalue for="3" value="19.4" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="272" source="KKMFI" target="Julio A. Ledesma IV">
+        <attvalues>
+          <attvalue for="3" value="26.19" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="273" source="KKMFI" target="Arturo B. Robes">
+        <attvalues>
+          <attvalue for="3" value="2.91" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="274" source="KKMFI" target="Al Francis C. Bichara">
+        <attvalues>
+          <attvalue for="3" value="7.76" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="275" source="KKKFI2" target="Antonio C. Alvarez">
+        <attvalues>
+          <attvalue for="3" value="4.8" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="276" source="KKKFI2" target="Arthur F. Celeste">
+        <attvalues>
+          <attvalue for="3" value="2.94" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="277" source="KKKFI2" target="Ignacio T. Arroyo Jr.">
+        <attvalues>
+          <attvalue for="3" value="4.8" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="278" source="KACI" target="Alvin S. Sandoval">
+        <attvalues>
+          <attvalue for="3" value="20.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="279" source="KACI" target="Oscar G. Malapitan">
+        <attvalues>
+          <attvalue for="3" value="8.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="280" source="KACI" target="Oscar G. Malapitan">
+        <attvalues>
+          <attvalue for="3" value="17.3" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="281" source="KACI" target="Mary Mitzi L. Cajayon">
+        <attvalues>
+          <attvalue for="3" value="10.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="282" source="KACI" target="Mary Mitzi L. Cajayon">
+        <attvalues>
+          <attvalue for="3" value="20.3" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="283" source="KACI" target="Luis A. Asistio">
+        <attvalues>
+          <attvalue for="3" value="15.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="284" source="KACI" target="Luis A. Asistio">
+        <attvalues>
+          <attvalue for="3" value="10.0" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="285" source="KACI" target="Vincent P. Crisologo">
+        <attvalues>
+          <attvalue for="3" value="8.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="286" source="KACI" target="Vincent P. Crisologo">
+        <attvalues>
+          <attvalue for="3" value="10.0" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="287" source="KACI" target="Manuel M. Roxas">
+        <attvalues>
+          <attvalue for="3" value="5.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="288" source="KACI" target="Juan Ponce Enrile">
+        <attvalues>
+          <attvalue for="3" value="10.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="289" source="KBKBI" target="Edgardo J. Angara">
+        <attvalues>
+          <attvalue for="3" value="14.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="290" source="KapKFI" target="Roberto C. Cajes">
+        <attvalues>
+          <attvalue for="3" value="12.61" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="291" source="KapKFI" target="Michael John R. Duavit">
+        <attvalues>
+          <attvalue for="3" value="4.85" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="292" source="KapKFI" target="Ignacio T. Arroyo Jr.">
+        <attvalues>
+          <attvalue for="3" value="6.615" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="293" source="KapKFI" target="Ignacio T. Arroyo Jr.">
+        <attvalues>
+          <attvalue for="3" value="13.64" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="294" source="KapKFI" target="Edgardo M. Chatto">
+        <attvalues>
+          <attvalue for="3" value="13.44" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="295" source="KapKFI" target="Robert Vincent Jude B. Jaworski Jr.">
+        <attvalues>
+          <attvalue for="3" value="5.76" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="296" source="KapKFI" target="Pedro M. Pancho">
+        <attvalues>
+          <attvalue for="3" value="27.106" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="297" source="KapKFI" target="Roque R. Ablan Jr.">
+        <attvalues>
+          <attvalue for="3" value="9.8" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="298" source="KapKFI" target="Eladio M. Jala">
+        <attvalues>
+          <attvalue for="3" value="13.72" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="299" source="KMBFI" target="Edgardo M. Chatto">
+        <attvalues>
+          <attvalue for="3" value="6.79" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="300" source="KMBFI" target="Maria Isabelle G. Climaco">
+        <attvalues>
+          <attvalue for="3" value="3.589" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="301" source="KMBFI" target="Vicente F. Belmonte Jr.">
+        <attvalues>
+          <attvalue for="3" value="4.85" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="302" source="KMBFI" target="Marina P. Clarete">
+        <attvalues>
+          <attvalue for="3" value="11.64" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="303" source="KMBFI" target="Joseph A. Santiago">
+        <attvalues>
+          <attvalue for="3" value="4.85" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="304" source="KMBFI" target="Thomas L. Dumpit Jr.">
+        <attvalues>
+          <attvalue for="3" value="14.55" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="305" source="KMBFI" target="Franklin P. Bautista">
+        <attvalues>
+          <attvalue for="3" value="0.97" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="306" source="KMBFI" target="Danilo P. Lagbas">
+        <attvalues>
+          <attvalue for="3" value="9.312" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="307" source="LGDFI" target="Emmanuel Joel J. Villanueva">
+        <attvalues>
+          <attvalue for="3" value="1.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="308" source="MSBFI" target="Edgardo J. Angara">
+        <attvalues>
+          <attvalue for="3" value="1.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="309" source="MAMFI" target="Ramon B. Revilla Jr.">
+        <attvalues>
+          <attvalue for="3" value="50.44" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="310" source="MAMFI" target="Ramon B. Revilla Jr.">
+        <attvalues>
+          <attvalue for="3" value="67.9" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="311" source="MAMFI" target="Juan Ponce Enrile">
+        <attvalues>
+          <attvalue for="3" value="58.2" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="312" source="MAMFI" target="Juan Ponce Enrile">
+        <attvalues>
+          <attvalue for="3" value="19.4" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="313" source="MAMFI" target="Rizalina Seachon-Lanete">
+        <attvalues>
+          <attvalue for="3" value="14.55" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="314" source="MAMFI" target="Jinggoy Ejercito Estrada">
+        <attvalues>
+          <attvalue for="3" value="69.355" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="315" source="MAMFI" target="Jinggoy Ejercito Estrada">
+        <attvalues>
+          <attvalue for="3" value="102.82" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="316" source="MAMFI" target="Rodolfo G. Valencia">
+        <attvalues>
+          <attvalue for="3" value="2.91" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="317" source="MAMFI" target="Rodolfo G. Valencia">
+        <attvalues>
+          <attvalue for="3" value="3.6" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="318" source="MAMFI" target="Rizalina L. Seachon-Lanete">
+        <attvalues>
+          <attvalue for="3" value="17.1" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="319" source="MAMFI" target="Amado S. Bagatsing">
+        <attvalues>
+          <attvalue for="3" value="0.9" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="320" source="MAMFI" target="Emmanuel Joel J. Villanueva">
+        <attvalues>
+          <attvalue for="3" value="3.87" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="321" source="MAMFI" target="Conrado M. Estrella III">
+        <attvalues>
+          <attvalue for="3" value="9.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="322" source="MAMFI" target="Edgar L. Valdez">
+        <attvalues>
+          <attvalue for="3" value="14.55" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="323" source="MAMFI" target="Erwin L. Chiongbian">
+        <attvalues>
+          <attvalue for="3" value="27.888" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="324" source="MAMFI" target="Rodolfo G. Plaza">
+        <attvalues>
+          <attvalue for="3" value="14.55" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="325" source="MBFI" target="Erico Basilio A. Fabian">
+        <attvalues>
+          <attvalue for="3" value="17.945" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="326" source="MBFI" target="Mariano U. Piamonte">
+        <attvalues>
+          <attvalue for="3" value="7.76" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="327" source="MBFI" target="Mariano U. Piamonte">
+        <attvalues>
+          <attvalue for="3" value="7.2" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="328" source="MBFI" target="Elias C. Bulut Jr.">
+        <attvalues>
+          <attvalue for="3" value="7.76" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="329" source="MBFI" target="Elias C. Bulut Jr.">
+        <attvalues>
+          <attvalue for="3" value="4.5" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="330" source="MBFI" target="Elias C. Bulut Jr.">
+        <attvalues>
+          <attvalue for="3" value="14.4" />
+          <attvalue for="4" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="331" source="MBFI" target="Philip A. Pichay">
+        <attvalues>
+          <attvalue for="3" value="18.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="332" source="MBFI" target="Prospero C. Nograles">
+        <attvalues>
+          <attvalue for="3" value="18.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="333" source="MBFI" target="Jose C. De Venecia Jr.">
+        <attvalues>
+          <attvalue for="3" value="12.298" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="334" source="MBFI" target="Samuel M. Dangwa">
+        <attvalues>
+          <attvalue for="3" value="1.8" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="335" source="MBFI" target="Laurence B. Wacnang">
+        <attvalues>
+          <attvalue for="3" value="17.255" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="336" source="MBFI" target="Ralph G. Recto">
+        <attvalues>
+          <attvalue for="3" value="28.4" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="337" source="MBFI" target="Eduardo V. Roquero">
+        <attvalues>
+          <attvalue for="3" value="8.64" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="338" source="MDSF" target="Matias V. Defensor Jr.">
+        <attvalues>
+          <attvalue for="3" value="99.5" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="339" source="MFI" target="Edgardo J. Angara">
+        <attvalues>
+          <attvalue for="3" value="9.6" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="340" source="MFI" target="Herminio G. Teves">
+        <attvalues>
+          <attvalue for="3" value="9.6" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="341" source="MFI" target="Antonio P. Yapha">
+        <attvalues>
+          <attvalue for="3" value="9.6" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="342" source="MFI" target="Emilio R. Espinosa Jr.">
+        <attvalues>
+          <attvalue for="3" value="9.6" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="343" source="NMPP" target="Juan Miguel F. Zubiri">
+        <attvalues>
+          <attvalue for="3" value="6.5" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="344" source="NE4" target="Rodolfo W. Antonino">
+        <attvalues>
+          <attvalue for="3" value="33.13" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="345" source="PFI" target="Federico Sandoval">
+        <attvalues>
+          <attvalue for="3" value="20.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="346" source="Pang-FI" target="Ramon B. Revilla Jr.">
+        <attvalues>
+          <attvalue for="3" value="9.7" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="347" source="Pang-FI" target="Juan Ponce Enrile">
+        <attvalues>
+          <attvalue for="3" value="74.69" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="348" source="Pang-FI" target="Jinggoy Ejercito Estrada">
+        <attvalues>
+          <attvalue for="3" value="184.3" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="349" source="Pang-FI" target="Jinggoy Ejercito Estrada">
+        <attvalues>
+          <attvalue for="3" value="20.37" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="350" source="Pang-FI" target="Rene M. Velarde">
+        <attvalues>
+          <attvalue for="3" value="3.88" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="351" source="Pang-FI" target="Rene M. Velarde">
+        <attvalues>
+          <attvalue for="3" value="3.88" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="352" source="Pang-FI" target="Ma. Rachel J. Arenas">
+        <attvalues>
+          <attvalue for="3" value="9.458" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="353" source="Pang-FI" target="Gregorio B. Honasan II">
+        <attvalues>
+          <attvalue for="3" value="35.7" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="354" source="Pang-FI" target="Alvin S. Sandoval">
+        <attvalues>
+          <attvalue for="3" value="6.9" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="355" source="Pang-FI" target="Carlo Oliver D. Diasnes">
+        <attvalues>
+          <attvalue for="3" value="8.55" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="356" source="Pang-FI" target="Nur G. Jaafar">
+        <attvalues>
+          <attvalue for="3" value="31.5" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="357" source="Pang-FI" target="Liwayway Vinzons-Chato">
+        <attvalues>
+          <attvalue for="3" value="3.6" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="358" source="Pang-FI" target="Reylina G. Nicolas">
+        <attvalues>
+          <attvalue for="3" value="3.6" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="359" source="PDDCI" target="Arnulfo P. Fuentebella">
+        <attvalues>
+          <attvalue for="3" value="18.6" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="360" source="POPDFI" target="Juan Ponce Enrile">
+        <attvalues>
+          <attvalue for="3" value="24.25" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="361" source="POPDFI" target="Marc Douglas C. Cagas IV">
+        <attvalues>
+          <attvalue for="3" value="2.7" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="362" source="POPDFI" target="Victor Francisco C. Ortega">
+        <attvalues>
+          <attvalue for="3" value="2.7" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="363" source="POPDFI" target="Conrado M. Estrella III">
+        <attvalues>
+          <attvalue for="3" value="4.5" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="364" source="POPDFI" target="Robert Raymund M. Estrella">
+        <attvalues>
+          <attvalue for="3" value="4.5" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="365" source="POPDFI" target="Samuel M. Dangwa">
+        <attvalues>
+          <attvalue for="3" value="7.2" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="366" source="POPDFI" target="Erwin L. Chiongbian">
+        <attvalues>
+          <attvalue for="3" value="4.5" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="367" source="PASEDF" target="Conrado M. Estrella III">
+        <attvalues>
+          <attvalue for="3" value="8.68" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="368" source="PASEDF" target="Ernesto A. Nieva">
+        <attvalues>
+          <attvalue for="3" value="1.89" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="369" source="PEEDA" target="Francisco T. Matugas">
+        <attvalues>
+          <attvalue for="3" value="2.7" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="370" source="PEEDA" target="Ferdinand Martin G. Romualdez">
+        <attvalues>
+          <attvalue for="3" value="2.7" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="371" source="PEEDA" target="Danton Q. Bueser">
+        <attvalues>
+          <attvalue for="3" value="9.6" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="372" source="PEEDA" target="Alipio Cirilo V. Badelles">
+        <attvalues>
+          <attvalue for="3" value="4.8" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="373" source="PEEDA" target="Leovigildo B. Banaag">
+        <attvalues>
+          <attvalue for="3" value="3.84" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="374" source="PEEDA" target="Prospero A. Pichay">
+        <attvalues>
+          <attvalue for="3" value="29.4" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="375" source="PEEDA" target="Marcelino C. Libanan">
+        <attvalues>
+          <attvalue for="3" value="9.8" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="376" source="PEEDA" target="Prospero S. Amatong">
+        <attvalues>
+          <attvalue for="3" value="9.8" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="377" source="PEEDA" target="Jaime C. Lopez">
+        <attvalues>
+          <attvalue for="3" value="2.697" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="378" source="PNRC" target="Richard J. Gordon">
+        <attvalues>
+          <attvalue for="3" value="52.1" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="379" source="PSDFI" target="Arrel R. Olaño">
+        <attvalues>
+          <attvalue for="3" value="6.08" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="380" source="PSDFI" target="Douglas R.A. Cagas">
+        <attvalues>
+          <attvalue for="3" value="7.68" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="381" source="PSDFI" target="Ramon B. Revilla Jr.">
+        <attvalues>
+          <attvalue for="3" value="31.5" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="382" source="PSDFI" target="Arthur Y. Pingoy Jr.">
+        <attvalues>
+          <attvalue for="3" value="18.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="383" source="PSDFI" target="Rizalina L. Seachon-Lanete">
+        <attvalues>
+          <attvalue for="3" value="19.2" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="384" source="PSDFI" target="Rozzano Rufino B. Biazon">
+        <attvalues>
+          <attvalue for="3" value="2.7" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="385" source="PSDFI" target="Rufus B. Rodriguez">
+        <attvalues>
+          <attvalue for="3" value="3.15" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="386" source="PSDFI" target="Isidoro E. Real Jr.">
+        <attvalues>
+          <attvalue for="3" value="4.8" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="387" source="PSDFI" target="Salacnib F. Baterina">
+        <attvalues>
+          <attvalue for="3" value="9.6" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="388" source="PSDFI" target="Edgar L. Valdez">
+        <attvalues>
+          <attvalue for="3" value="18.9" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="389" source="PMFI" target="Emilio C. Macias II">
+        <attvalues>
+          <attvalue for="3" value="3.92" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="390" source="PMFI" target="Jaime C. Lopez">
+        <attvalues>
+          <attvalue for="3" value="1.96" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="391" source="PMFI" target="Jose Emmanuel Bobbit L. Carlos">
+        <attvalues>
+          <attvalue for="3" value="14.7" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="392" source="QCPADFI" target="Ramon B. Magsaysay Jr.">
+        <attvalues>
+          <attvalue for="3" value="0.5" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="393" source="RFI" target="Edgardo J. Angara">
+        <attvalues>
+          <attvalue for="3" value="81.55" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="394" source="RCNME" target="Juan Ponce Enrile">
+        <attvalues>
+          <attvalue for="3" value="2.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="395" source="SBPSF" target="Jinggoy Ejercito Estrada">
+        <attvalues>
+          <attvalue for="3" value="24.25" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="396" source="SPFI" target="Nanette Castelo Daza">
+        <attvalues>
+          <attvalue for="3" value="57.05" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="397" source="SPFI" target="Edgardo J. Angara">
+        <attvalues>
+          <attvalue for="3" value="0.5" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="398" source="SPFI" target="Loren B. Legarda">
+        <attvalues>
+          <attvalue for="3" value="0.2" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="399" source="SJFI" target="Mauricio G. Domogan">
+        <attvalues>
+          <attvalue for="3" value="4.7" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="400" source="SDPFFI" target="Edgar L. Valdez">
+        <attvalues>
+          <attvalue for="3" value="9.7" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="401" source="SDPFFI" target="Edgar L. Valdez">
+        <attvalues>
+          <attvalue for="3" value="21.34" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="402" source="SDPFFI" target="Edgar L. Valdez">
+        <attvalues>
+          <attvalue for="3" value="14.55" />
+          <attvalue for="4" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="403" source="SDPFFI" target="Juan Ponce Enrile">
+        <attvalues>
+          <attvalue for="3" value="63.05" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="404" source="SDPFFI" target="Ramon B. Revilla Jr.">
+        <attvalues>
+          <attvalue for="3" value="38.8" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="405" source="SDPFFI" target="Ramon B. Revilla Jr.">
+        <attvalues>
+          <attvalue for="3" value="58.2" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="406" source="SDPFFI" target="Ramon B. Revilla Jr.">
+        <attvalues>
+          <attvalue for="3" value="72.0" />
+          <attvalue for="4" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="407" source="SDPFFI" target="Marc Douglas C. Cagas IV">
+        <attvalues>
+          <attvalue for="3" value="4.85" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="408" source="SDPFFI" target="Arthur Y. Pingoy Jr.">
+        <attvalues>
+          <attvalue for="3" value="2.91" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="409" source="SDPFFI" target="Victor Francisco C. Ortega">
+        <attvalues>
+          <attvalue for="3" value="9.7" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="410" source="SDPFFI" target="Victor Francisco C. Ortega">
+        <attvalues>
+          <attvalue for="3" value="4.85" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="411" source="SDPFFI" target="Rizalina L. Seachon-Lanete">
+        <attvalues>
+          <attvalue for="3" value="22.591" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="412" source="SDPFFI" target="Conrado M. Estrella III">
+        <attvalues>
+          <attvalue for="3" value="19.4" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="413" source="SDPFFI" target="Erwin L. Chiongbian">
+        <attvalues>
+          <attvalue for="3" value="38.073" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="414" source="SDPFFI" target="Robert Raymund M. Estrella">
+        <attvalues>
+          <attvalue for="3" value="30.555" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="415" source="SDPFFI" target="Robert Raymund M. Estrella">
+        <attvalues>
+          <attvalue for="3" value="18.915" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="416" source="SDPFFI" target="Rodolfo G. Plaza">
+        <attvalues>
+          <attvalue for="3" value="12.125" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="417" source="SDPFFI" target="Samuel M. Dangwa">
+        <attvalues>
+          <attvalue for="3" value="15.52" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="418" source="SDPFFI" target="Samuel M. Dangwa">
+        <attvalues>
+          <attvalue for="3" value="8.73" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="419" source="SDPFFI" target="Jinggoy Ejercito Estrada">
+        <attvalues>
+          <attvalue for="3" value="19.4" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="420" source="SDPFFI" target="Jinggoy Ejercito Estrada">
+        <attvalues>
+          <attvalue for="3" value="48.5" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="421" source="SDPFFI" target="Jinggoy Ejercito Estrada">
+        <attvalues>
+          <attvalue for="3" value="22.5" />
+          <attvalue for="4" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="422" source="SDPFFI" target="Rizalina L. Seachon Lanete">
+        <attvalues>
+          <attvalue for="3" value="29.1" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="423" source="SERVE" target="Rodante D. Marcoleta">
+        <attvalues>
+          <attvalue for="3" value="3.36" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="424" source="SJAMPC" target="Ramon B. Revilla Jr.">
+        <attvalues>
+          <attvalue for="3" value="9.7" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="425" source="SBFI" target="Jose R. Ping-ay Jr">
+        <attvalues>
+          <attvalue for="3" value="9.7" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="426" source="SBFI" target="Guillermo P. Cua">
+        <attvalues>
+          <attvalue for="3" value="19.872" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="427" source="SDC" target="Jose Solis">
+        <attvalues>
+          <attvalue for="3" value="20.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="428" source="AGSFI" target="Edgardo J. Angara">
+        <attvalues>
+          <attvalue for="3" value="24.96" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="429" source="TLGI" target="Jeci A. Lapus">
+        <attvalues>
+          <attvalue for="3" value="4.85" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="430" source="TLGI" target="Paul R. Daza">
+        <attvalues>
+          <attvalue for="3" value="4.365" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="431" source="TFI" target="Jesli A. Lapus">
+        <attvalues>
+          <attvalue for="3" value="10.736" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="432" source="TMCFI" target="Jaime C. Lopez">
+        <attvalues>
+          <attvalue for="3" value="16.5" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="433" source="UPO" target="Teodoro L. Locsin Jr.">
+        <attvalues>
+          <attvalue for="3" value="5.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="434" source="UPO" target="Rozzano Rufino B. Biazon">
+        <attvalues>
+          <attvalue for="3" value="6.5" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="435" source="UPO" target="Rozzano Rufino B. Biazon">
+        <attvalues>
+          <attvalue for="3" value="1.5" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="436" source="UPO" target="Vincent P. Crisologo">
+        <attvalues>
+          <attvalue for="3" value="3.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="437" source="UPO" target="Vincent P. Crisologo">
+        <attvalues>
+          <attvalue for="3" value="3.5" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="438" source="UPO" target="Consuelo A. Dy">
+        <attvalues>
+          <attvalue for="3" value="5.0" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="439" source="UPO" target="Ernesto A. Nieva">
+        <attvalues>
+          <attvalue for="3" value="10.8" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="440" source="UPFI" target="Candido P. Pancrudo Jr.">
+        <attvalues>
+          <attvalue for="3" value="7.954" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="441" source="UPFI" target="Belma A. Cabilao">
+        <attvalues>
+          <attvalue for="3" value="9.7" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="442" source="UPFI" target="Florencio T. Miraflores">
+        <attvalues>
+          <attvalue for="3" value="4.85" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="443" source="UPFI" target="Edgar T. Espinosa">
+        <attvalues>
+          <attvalue for="3" value="9.7" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="444" source="UPFI" target="Edgar T. Espinosa">
+        <attvalues>
+          <attvalue for="3" value="14.4" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="445" source="UPFI" target="Joseph A. Santiago">
+        <attvalues>
+          <attvalue for="3" value="4.85" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
